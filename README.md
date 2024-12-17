@@ -144,20 +144,6 @@ Resultado: A palava verificada é um palíndromo.
 
 ---
 
-## 📊 Estrutura do Repositório
-
-```
-.
-├── desafio1_concatenando_dados.py
-├── desafio2_repetindo_textos.py
-├── desafio3_operacoes_matematicas.py
-├── desafio4_verificando_pares_impares.py
-├── desafio5_calculando_media.py
-└── desafio6_verificando_palindromos.py
-```
-
----
-
 ## 📈 Objetivos
 Os desafios abordados neste repositório são voltados à prática e aperfeiçoamento dos fundamentos da programação em Python, visando:
 - Consolidar conhecimentos essenciais na linguagem Python;
